@@ -22,3 +22,15 @@ Piotr Wasinowski
 https://www.instagram.com/piotr_wasniowski/
 
 https://www.youtube.com/watch?v=ksyDqFblJGE
+
+# Companies + Videos 
+
+Lutum - https://www.youtube.com/watch?v=vHzZiUiN5v8
+
+WASP3d - https://www.3dwasp.com/en/
+
+3D Potter - https://3dpotter.com/
+
+Eazao (bad) - https://www.eazao.com/
+
+Cerambot - https://www.cerambot.com/product/extrusion-screw/
