@@ -22,7 +22,7 @@
 #pragma once
 
 #ifndef BOARD_INFO_NAME
-  #define BOARD_INFO_NAME "BTT SKR Mini E3 V2.0"
+  #define BOARD_INFO_NAME "BTT SKR Mini E3 V1.2"
 #endif
 
 #define BOARD_CUSTOM_BUILD_FLAGS -DTONE_CHANNEL=4 -DTONE_TIMER=4 -DTIMER_TONE=4
